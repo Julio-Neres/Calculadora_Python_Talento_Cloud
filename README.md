@@ -6,3 +6,5 @@ onde:
 3=multiplicação (numero 1 * numero2) 
 4= divisão (numero 1 / numero2) 
 
+
+Auto PR ke-48
